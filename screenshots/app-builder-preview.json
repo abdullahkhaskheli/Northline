@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 2095,
+      "bodyTextHash": "b34af4da0f7e6bda345c81aad742ce82257bcfa3a7ee68632de7ab109de0fae1",
+      "bodyTextPrefix": "Northline Sales & inventory · Superstore sample · As of 17 Sep 2",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Northline",
+      "hasCanvas": false,
+      "bodyTextLen": 2130,
+      "bodyTextHash": "e8f88b26d9120631fc08acd013942d163e3173c6b7e2d11fb1e1add262ac1af5",
+      "bodyTextPrefix": "Northline Sales & inventory · Superstore sample · As of 17 Sep 2",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
